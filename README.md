@@ -11,14 +11,6 @@
 - ✅ تغییر فقط **یک خط** در یک فایل + **اختیاری** اضافه کردن فونت
 - ✅ بدون نیاز به تغییر فایل‌های اصلی CSS پوسته
 
-## 🖼️ پیش‌نمایش
-
-| حالت روشن (Light Mode) | حالت تاریک (Dark Mode) |
-|:----------------------:|:----------------------:|
-| ![Light Mode](https://github.com/abdulhalim/TypeRenew_RTL_Admin/blob/main/light.png?raw=true) | ![Dark Mode](https://github.com/abdulhalim/TypeRenew_RTL_Admin/blob/main/dark.png?raw=true) |
-
-> تصاویر پیش‌نمایش از مخزن گیت‌هاب پروژه بارگیری می‌شوند.
-
 ## 🧩 ساختار فایل‌ها (حداقل حالت)
 
 ```
